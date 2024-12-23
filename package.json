@@ -4,8 +4,20 @@
   "description": "This project is going to be my first project using Node and NPM",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "saludar": "node hola_mundo.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "JS",
+    "FIRST",
+    "PROJECT",
+    "NODE",
+    "NPM"
+  ],
   "author": "Luis Portillo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "learningjs": "file:"
+  }
 }
