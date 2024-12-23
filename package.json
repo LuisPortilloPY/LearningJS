@@ -1,0 +1,11 @@
+{
+  "name": "learningjs",
+  "version": "1.0.0",
+  "description": "This project is going to be my first project using Node and NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Portillo",
+  "license": "ISC"
+}
