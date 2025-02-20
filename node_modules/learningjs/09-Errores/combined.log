@@ -1,0 +1,15 @@
+{"level":"info","message":"texto informativo","service":"user-service"}
+{"level":"warn","message":"texto de advertencia","service":"user-service"}
+{"level":"error","message":"esto es un errror","service":"user-service"}
+{"level":"info","message":"texto informativo","service":"user-service"}
+{"level":"warn","message":"texto de advertencia","service":"user-service"}
+{"level":"error","message":"esto es un errror","service":"user-service"}
+{"level":"debug","message":"esto es un debug","service":"user-service"}
+{"level":"info","message":"texto informativo"}
+{"level":"warn","message":"texto de advertencia"}
+{"level":"error","message":"esto es un errror"}
+{"level":"debug","message":"esto es un debug"}
+{"level":"info","message":"texto informativo"}
+{"level":"warn","message":"texto de advertencia"}
+{"level":"error","message":"esto es un errror"}
+{"level":"debug","message":"esto es un debug"}
