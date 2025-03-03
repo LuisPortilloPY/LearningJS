@@ -1,0 +1,20 @@
+.seccion{
+    background-color: darkslategray;
+    padding: 1rem;
+    margin: 1rem;
+}
+.container{
+    display: block;
+    
+}
+.parrafo {
+    background-color: white;
+    padding: 1rem;
+    margin: 1rem;
+}
+.parrafoimg {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 1rem;
+}
